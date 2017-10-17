@@ -1074,7 +1074,6 @@ class Player extends Component {
       this.tag.player = null;
       this.tag = null;
     }
-
   }
 
   /**
